@@ -1,2 +1,2 @@
 # layout-main-css
-Layout de prácticas en FalconMasters
+Layout responsive de prácticas en FalconMasters, con CSS
